@@ -1,6 +1,7 @@
 # 安全AI挑战者计划第三期 - 文本分类对抗攻击 - No.2解决方案
 
-
+萌新向：从四分到四百，删减替换各显其能，梦幻逗号疯狂上分！
+具体思路详见：https://tianchi.aliyun.com/forum/postDetail?spm=5176.12281915.0.0.1e551c5cEdrVwH&postId=96165
 
 ## 文件下载
 
