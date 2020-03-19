@@ -1,0 +1,7 @@
+jieba
+pypinyin
+mafan
+editdistance
+Pinyin2Hanzi
+gensim
+fasttext
